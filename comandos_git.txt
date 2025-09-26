@@ -11,3 +11,5 @@ esto es otra linea
 git add .
 git commit -m "se realizan cambios en comandos"
 git push -u origin main
+
+esto es un cambio desde el repo
