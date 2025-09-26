@@ -1,7 +1,13 @@
-echo "# info1170s1" >> README.md
+echo "# info1170s1 topicos" >> README.md
 git init
-git add README.md
-git commit -m "first commit"
+git add .
+git commit -m "mi primer commit"
 git branch -M main
 git remote add origin https://github.com/learsixela/info1170s1.git
+git push -u origin main
+
+esto es otra linea
+
+git add .
+git commit -m "se realizan cambios en comandos"
 git push -u origin main
